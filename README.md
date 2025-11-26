@@ -135,3 +135,7 @@ Combining JavaFX with solid architectural design results in a modular, scalable,
 📄 License
 This project is created for educational purposes (DSA course).
 You may modify or extend it freely.
+
+UML
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/aa807c7a-d978-418a-aa2b-ddc261b622cd" />
+
